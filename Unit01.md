@@ -131,7 +131,7 @@ id="1.1.3"></span> 
     Christian ‘House Church’"**
     Link: The Saylor Foundation's "[Dura Europos and the Early Christian
     ‘House
-    Church’](http://www.saylor.org/site/wp-content/uploads/2011/05/ARTH401-1.1.3-Dura-Europos-FINAL.pdf)"
+    Church’](https://resources.saylor.org/archived/wp-content/uploads/2011/05/ARTH401-1.1.3-Dura-Europos-FINAL.pdf)"
     (PDF)  
       
      Instructions: Please read this entry in its entirety for an
@@ -331,13 +331,13 @@ id="1.2.1"></span> 
     Comparing and Contrasting Early Christian and Roman Art”**
     Link: The Saylor Foundation’s “[Unit 1 Writing Assessment: Comparing
     and Contrasting Early Christian and Roman
-    Art](http://www.saylor.org/site/wp-content/uploads/2012/06/ARTH401-Assessment1-FINAL.pdf)”  
+    Art](https://resources.saylor.org/archived/wp-content/uploads/2012/06/ARTH401-Assessment1-FINAL.pdf)”  
         
      Instructions: Please carefully read through the assessment overview
     and instructions and view all required images and reading
     assignments to complete this assessment.  When you are done, check
     your work against The Saylor Foundation’s “[Guide to Responding to
     Assignment
-    1](http://www.saylor.org/site/wp-content/uploads/2012/06/ARTH401-Assessment1-GTR-FINAL.pdf).”
+    1](https://resources.saylor.org/archived/wp-content/uploads/2012/06/ARTH401-Assessment1-GTR-FINAL.pdf).”
 
 

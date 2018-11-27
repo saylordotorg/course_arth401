@@ -87,7 +87,7 @@ id="4.1"></span> 
 
 -   **Reading: The Saylor Foundation's "Late Byzantine Architecture"**
     Link: The Saylor Foundation's "[Late Byzantine
-    Architecture](http://www.saylor.org/site/wp-content/uploads/2011/08/ARTH401-4.2-Late-Byzantine-Architecture-FINAL.pdf)"
+    Architecture](https://resources.saylor.org/archived/wp-content/uploads/2011/08/ARTH401-4.2-Late-Byzantine-Architecture-FINAL.pdf)"
     (PDF)  
       
      Instructions: Please read the information linked above in its
@@ -100,7 +100,7 @@ id="4.1"></span> 
     University: The Medieval Architecture Online Teaching Project:
     Kariye Camii: “Pictorial Decoration: Sequence & Style”**
     Link: The Saylor Foundation’s “[Late Byzantine
-    Architecture](http://www.saylor.org/site/wp-content/uploads/2011/05/ARTH401-4.2-Late-Byzantine-Architecture-FINAL.pdf),”
+    Architecture](https://resources.saylor.org/archived/wp-content/uploads/2011/05/ARTH401-4.2-Late-Byzantine-Architecture-FINAL.pdf),”
     (PDF) Columbia University: The Medieval Architecture Online Teaching
     Project: Italy, Rome: Professor Ousterhout’s “[Kariye
     Camii](http://www.learn.columbia.edu/ma/htm/or/ma_or_discuss_kc.htm)”
@@ -308,9 +308,9 @@ id="4.1"></span> 
     Boguslawski’s “Icon Painting” and “Icons: The Holy Trinity”**
     Links: Rollins College: Russian Painting: Dr. Alexander
     Boguslawski’s  “[Icon
-    Painting](http://www.saylor.org/site/wp-content/uploads/2011/05/Icon-Painting.pdf)”
+    Painting](https://resources.saylor.org/archived/wp-content/uploads/2011/05/Icon-Painting.pdf)”
     (PDF) and “[Icons: The Holy
-    Trinity](http://www.saylor.org/site/wp-content/uploads/2011/05/The-Holy-Trinity.pdf)”
+    Trinity](https://resources.saylor.org/archived/wp-content/uploads/2011/05/The-Holy-Trinity.pdf)”
     (PDF)  
         
      Instructions: Please read both readings in their entirety. 
@@ -327,13 +327,13 @@ id="4.1"></span> 
     Discussion of the Fate of Byzantine Art”**
     Link: The Saylor Foundation’s “[Unit 4 Writing Assessment:
     Discussion of the Fate of Byzantine
-    Art](http://www.saylor.org/site/wp-content/uploads/2012/06/ARTH401-Assessment4-FINAL.pdf)”  
+    Art](https://resources.saylor.org/archived/wp-content/uploads/2012/06/ARTH401-Assessment4-FINAL.pdf)”  
         
      Instructions: Please carefully read through the assessment overview
     and instructions and view all required images and reading
     assignments to complete this assessment.  When you are done, check
     your work against The Saylor Foundation’s “[Guide to Responding to
     Assessment
-    4](http://www.saylor.org/site/wp-content/uploads/2012/06/ARTH401-Assessment4-GTR-FINAL.pdf).”
+    4](https://resources.saylor.org/archived/wp-content/uploads/2012/06/ARTH401-Assessment4-GTR-FINAL.pdf).”
 
 
