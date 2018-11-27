@@ -182,7 +182,7 @@ id="2.1"></span> 
 -   **Reading: The Saylor Foundation's "Mosaic Decoration in Byzantine
     Ravenna"**
     Link: The Saylor Foundation's "[Mosaic Decoration in Byzantine
-    Ravenna](http://www.saylor.org/site/wp-content/uploads/2011/05/ARTH401-2.2.2-Mosaic-Decoration-in-Byzantine-Ravenna-FINAL.pdf)"
+    Ravenna](https://resources.saylor.org/archived/wp-content/uploads/2011/05/ARTH401-2.2.2-Mosaic-Decoration-in-Byzantine-Ravenna-FINAL.pdf)"
     (PDF)  
       
      Instructions: Please read this overview of mosaic decoration in
@@ -266,7 +266,7 @@ id="2.1"></span> 
     Brooks’ “Icons and Iconoclasm in Byzantium”**
     Links: Rollins College: Russian Painting: Dr. Alexander
     Boguslawski’s Russian Painting: Icons “[Understanding
-    Icons](http://www.saylor.org/site/wp-content/uploads/2011/05/Understanding-Icons.pdf)”
+    Icons](https://resources.saylor.org/archived/wp-content/uploads/2011/05/Understanding-Icons.pdf)”
     and Metropolitan Museum of Art: Heilbrunn Timeline of Art History:
     Sarah Brooks’ “[Icons and Iconoclasm in
     Byzantium](http://www.metmuseum.org/toah/hd/icon/hd_icon.htm)”
@@ -289,7 +289,7 @@ id="2.1"></span> 
 **2.3.1.1 Early Icons** <span id="2.3.1.1"></span> 
 -   **Reading: The Saylor Foundation's "Early Icons"**
     Link: The Saylor Foundation's "[Early
-    Icons](http://www.saylor.org/site/wp-content/uploads/2011/05/ARTH401-2.3.1.1-Early-Icons-FINAL.pdf)"
+    Icons](https://resources.saylor.org/archived/wp-content/uploads/2011/05/ARTH401-2.3.1.1-Early-Icons-FINAL.pdf)"
     (PDF)  
       
      Instructions: Please read this overview of early icon painting.
@@ -421,13 +421,13 @@ id="2.3.2"></span> 
     Formal Analysis of a Byzantine Icon”**
     Link: The Saylor Foundation’s “[Unit 2 Writing Assessment: Formal
     Analysis of a Byzantine
-    Icon](http://www.saylor.org/site/wp-content/uploads/2012/06/ARTH401-Assessment2-FINAL.pdf)”  
+    Icon](https://resources.saylor.org/archived/wp-content/uploads/2012/06/ARTH401-Assessment2-FINAL.pdf)”  
         
      Instructions: Please carefully read through the assessment overview
     and instructions and view all required images and reading
     assignments to complete this assignment.  When you are done, check
     your work against The Saylor Foundation’s “[Guide to Responding to
     Assessment
-    2](http://www.saylor.org/site/wp-content/uploads/2012/06/ARTH401-Assessment2-GTR-FINAL.pdf).”
+    2](https://resources.saylor.org/archived/wp-content/uploads/2012/06/ARTH401-Assessment2-GTR-FINAL.pdf).”
 
 
