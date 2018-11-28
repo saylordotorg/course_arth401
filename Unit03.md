@@ -59,7 +59,7 @@ id="3.1"></span> 
     Byzantine Period: The ‘Second Golden Age’ of Byzantium (843-1261)”
     (HTML) and The Saylor Foundation’s “[The Schism of the Eastern and
     Western
-    Churches](https://resources.saylor.org/archived/wp-content/uploads/2011/05/ARTH401-3.1-The-Schism-of-the-Eastern-and-Western-Churches-FINAL.pdf)”
+    Churches](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/05/ARTH401-3.1-The-Schism-of-the-Eastern-and-Western-Churches-FINAL.pdf)”
     (PDF)  
         
      Instructions: Please read these webpages for an overview of the
@@ -75,7 +75,7 @@ id="3.1"></span> 
     Online Teaching Project: Professor Robert Ousterhout’s “Middle
     Byzantine Architecture;” ArchNet: “Bodrum Mosque”**
     Links: The Saylor Foundation’s “[Middle Byzantine
-    Architecture](https://resources.saylor.org/archived/wp-content/uploads/2011/05/ARTH401-3.1.1-Middle-Byzantine-Architecture-FINAL.pdf);”
+    Architecture](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/05/ARTH401-3.1.1-Middle-Byzantine-Architecture-FINAL.pdf);”
     (PDF) Municipality of Distomo, Greece: Archaeological Receipts
     Fund’s “[Hosios
     Loukas](http://www.distomo.gr/english/osios_loukas_en.htm); (HTML) ”
@@ -99,7 +99,7 @@ id="3.1"></span> 
 
 -   **Reading: The Saylor Foundation's "Middle Byzantine Architecture"**
     Link: The Saylor Foundation's "[Middle Byzantine
-    Architecture](https://resources.saylor.org/archived/wp-content/uploads/2011/08/ARTH401-3.1.1-Middle-Byzantine-Architecture-FINAL.pdf)"
+    Architecture](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/ARTH401-3.1.1-Middle-Byzantine-Architecture-FINAL.pdf)"
     (PDF)  
       
      Instructions: Please read the information linked above in its
@@ -120,9 +120,9 @@ id="3.1"></span> 
 -   **Reading: Boundless: “Illuminated Manuscripts” and “Ivory Carving
     and Painting”**
     Link: Boundless: [“Illuminated
-    Manuscripts”](https://resources.saylor.org/archived/wp-content/uploads/2013/03/ARTH401_3.1.2_Illuminated-Manuscripts.pdf) (PDF)
+    Manuscripts”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/03/ARTH401_3.1.2_Illuminated-Manuscripts.pdf) (PDF)
     and [“Ivory Carving and
-    Painting”](https://resources.saylor.org/archived/wp-content/uploads/2013/03/ARTH401_3.1.2_Ivory-Carving-and-Painting.pdf) (PDF)  
+    Painting”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/03/ARTH401_3.1.2_Ivory-Carving-and-Painting.pdf) (PDF)  
 
     Instructions: Please read the entirety of the text on these webpages
     to become familiar with the various types of illuminated manuscripts
@@ -266,14 +266,14 @@ id="3.1"></span> 
     Discussion of Byzantine Influence and Interaction”**
     Link: The Saylor Foundation’s “[Unit 3 Writing Assessment:
     Discussion of Byzantine Influence and
-    Interaction](https://resources.saylor.org/archived/wp-content/uploads/2012/06/ARTH401-Assessment3-FINAL.pdf)”  
+    Interaction](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/06/ARTH401-Assessment3-FINAL.pdf)”  
         
      Instructions: Please carefully read through the assessment overview
     and instructions and view all required images and reading
     assignments to complete this assignment.  When you are done, check
     your work against The Saylor Foundation’s “[Guide to Responding to
     Assessment
-    3](https://resources.saylor.org/archived/wp-content/uploads/2012/06/ARTH401-Assessment3-GTR-FINAL.pdf).”  
+    3](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/06/ARTH401-Assessment3-GTR-FINAL.pdf).”  
       
 
 
